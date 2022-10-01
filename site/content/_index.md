@@ -1,7 +1,7 @@
 ---
 title: "SMK Negeri 1 Kota Tangerang"
 subtitle: Jl. Perintis Kemerdekaan 2, Babakan, Kota Tangerang.
-image: /img/home-jumbotron.jpg
+image: /img/header-smkn1.jpg
 blurb:
     heading: Sedang Dibangun
     text: "Mohon maaf, website SMKN 1 Tangerang sedang dalam proses perombakan total, dari yang sebelumnya memakai Wordpress menjadi memakai HUGO."
